@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad azir<br>A Tyrannosaurus Rex from Indonesia</h1>
+<h1 align="center">Hi 👋, I'm Muhammad azir<br>A Tyrannosaurus Rex from Indonesia</br><br/><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR1bWhud2FsbnY1c3pmYml5YmpydGJ5bW1mamN2MzZ1bGxlb2Z3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" alt="Alt Text" width="300" height="300"></h1>
 <h2 align="left">Never make a decision in a state of anger, and never make a promise in a state of excitement.<br><br>-Ali bin Abi Thalib</h2>
 <h3></h3>
 
